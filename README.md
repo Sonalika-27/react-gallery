@@ -1,1 +1,1 @@
-# react-gallery
+a simple gallery using react
